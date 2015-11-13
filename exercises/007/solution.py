@@ -1,2 +1,2 @@
 A = 42
-print("Hello world", A) 
+print("Hello world",A) 
