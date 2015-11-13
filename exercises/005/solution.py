@@ -1,2 +1,2 @@
-A=42
-print (A)
+A = 42
+print(A)
