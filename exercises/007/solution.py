@@ -1,2 +1,2 @@
-A = 42
-print("Hello world", A)
+A = ['Hello world', 42]
+print(A)
